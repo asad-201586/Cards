@@ -10,6 +10,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/lll"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -202,8 +203,18 @@
 
         </LinearLayout>
 
-
-
     </LinearLayout>
+
+    <TextView
+        android:onClick="clickListener"
+        android:textColor="#ffffff"
+        android:text="Next"
+        android:textSize="@dimen/_15ssp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_below="@+id/lll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </RelativeLayout>

@@ -21,5 +21,34 @@
     <color name="card4_back_down">#F8BC6B</color>
     <color name="card4_icon">#ffffff</color>
 
+    <!--2nd card colors-->
+    <color name="back_2">#F5F6F8</color>
+    <color name="card1_back_2">#F4D1D2</color>
+    <color name="card1_icon_2">#F45F5F</color>
+
+    <color name="card2_back_2">#C9E1F7</color>
+    <color name="card2_icon_2">#49A3F6</color>
+
+    <color name="card3_back_2">#F4E3CB</color>
+    <color name="card3_icon_2">#F4AD49</color>
+
+
+    <color name="card4_back_2">#DFCDF9</color>
+    <color name="card4_icon_2">#9F52FF</color>
+
+    <color name="card5_back_2">#BCE8D9</color>
+    <color name="card5_icon_2">#0EA76F</color>
+
+    <color name="card6_back_2">#C7DAEE</color>
+    <color name="card6_icon_2">#3482D2</color>
+
+    <color name="card7_back_2">#f8bbd0</color>
+    <color name="card7_icon_2">#f50057</color>
+
+    <color name="card8_back_2">#c8e6c9</color>
+    <color name="card8_icon_2">#00e676</color>
+
+    <color name="card9_back_2">#ffccbc</color>
+    <color name="card9_icon_2">#ff3d00</color>
 
     </resources>
