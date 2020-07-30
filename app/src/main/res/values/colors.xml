@@ -32,7 +32,6 @@
     <color name="card3_back_2">#F4E3CB</color>
     <color name="card3_icon_2">#F4AD49</color>
 
-
     <color name="card4_back_2">#DFCDF9</color>
     <color name="card4_icon_2">#9F52FF</color>
 
@@ -51,4 +50,19 @@
     <color name="card9_back_2">#ffccbc</color>
     <color name="card9_icon_2">#ff3d00</color>
 
-    </resources>
+
+    <!--tab design colors-->
+    <color name="back_one">#2B2E44</color>
+    <color name="back_two">#32354C</color>
+
+    <color name="icon_back_1">#3C3F55</color>
+    <color name="icon_back_2">#309CF2</color>
+
+    <color name="icon_color_1">#ffffff</color>
+    <color name="icon_color_2">#A3A4AD</color>
+
+    <color name="text_color_high">#A3A4AD</color>
+    <color name="text_color_normal">#7A7B8A</color>
+
+
+</resources>
